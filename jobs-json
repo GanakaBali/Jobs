@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Hotel Staff – Okinawa",
+      "location": "Okinawa, Jepang",
+      "salary": "¥200,000 – ¥230,000 / bulan",
+      "category": "Hospitality",
+      "thumbnail": "https://halo-japan.com/images/hotel.jpg",
+      "description": "Bekerja sebagai staff hotel di Okinawa. Tugas meliputi front desk, menyiapkan kamar, membantu tamu, dan tugas-tugas operasional lainnya.",
+      "requirements": [
+        "Minimal pendidikan SMA",
+        "Bisa bahasa Jepang N4 atau lebih",
+        "Berpengalaman kerja hospitality lebih baik"
+      ],
+      "benefits": [
+        "Mess disediakan",
+        "Kontrak 3 tahun",
+        "Gaji naik tahunan"
+      ],
+      "applyUrl": "https://wa.me/6281234567?text=Saya%20mau%20apply%20Hotel%20Staff%20Okinawa"
+    },
+    {
+      "id": 2,
+      "title": "Pabrik Makanan – Tokyo",
+      "location": "Tokyo, Jepang",
+      "salary": "¥180,000 – ¥220,000 / bulan",
+      "category": "Factory",
+      "thumbnail": "https://halo-japan.com/images/factory.jpg",
+      "description": "Pekerjaan bagian produksi makanan. Mengemas produk, melakukan pengecekan kualitas, dan menjaga kebersihan area produksi.",
+      "requirements": [
+        "Tidak buta warna",
+        "Sehat fisik",
+        "Siap kerja shift"
+      ],
+      "benefits": [
+        "Lemburan banyak",
+        "Mess bersih dekat pabrik",
+        "Asuransi kerja lengkap"
+      ],
+      "applyUrl": "https://wa.me/6281234567?text=Saya%20mau%20apply%20Pabrik%20Makanan%20Tokyo"
+    }
+  ]
+}
