@@ -170,7 +170,7 @@
       "salary_min": 200000,
       "salary_max": 240000,
       "category": "Automotive",
-      "thumbnail": "https://halo-japan.com/images/automotive.jpg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoh7siGOAKK0sJvXslhijZ_7CNEMEUfM_dNnKz-oWIwA&s=10",
       "description": "Membantu perakitan kendaraan, pengecekan mesin, dan maintenance ringan.",
       "requirements": ["SMA", "N4", "Minat otomotif"],
       "benefits": ["Mess", "Training mekanik"],
