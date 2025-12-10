@@ -162,7 +162,7 @@
       "cv_count": 6,
       "posisi_pelamar": ["Indonesia", "Jepang"]
     },
-    {
+{
   "id": 10,
   "title": "Automotive Mechanic Assistant",
   "location": "Gunma",
@@ -171,7 +171,7 @@
   "salary_max": 240000,
   "category": "Automotive",
   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoh7siGOAKK0sJvXslhijZ_7CNEMEUfM_dNnKz-oWIwA&s=10",
-  "description": "Posisi ini bertugas membantu mekanik dalam proses perakitan kendaraan, pengecekan mesin, serta melakukan maintenance ringan. Pekerjaan mencakup penggantian oli, pengecekan rem, pemeriksaan aki, dan memastikan semua komponen berfungsi dengan baik. Anda juga akan mendukung proses persiapan kendaraan sebelum pengujian kualitas, membersihkan area kerja, menyiapkan peralatan, serta melakukan dokumentasi hasil pemeriksaan.\n\nLingkungan kerja berada di pabrik otomotif modern dengan standar keselamatan tinggi. Perusahaan memberikan pelatihan teknis untuk meningkatkan keterampilan mekanik. Posisi ini sangat cocok bagi kandidat yang memiliki minat kuat pada dunia otomotif dan siap bekerja mengikuti SOP industri Jepang. Pelamar diperbolehkan mendaftar dari Indonesia maupun Jepang.",
+  "description": "Membantu perakitan kendaraan, pengecekan mesin, dan maintenance ringan. Tugas meliputi mendukung proses inspeksi komponen kendaraan, penggantian oli, pengecekan aki, pemeriksaan sistem rem, serta membantu mekanik senior dalam troubleshooting dasar. Kandidat akan bekerja bersama tim mekanik profesional di lingkungan pabrik otomotif modern dengan standar keselamatan tinggi. Pekerjaan juga mencakup proses persiapan kendaraan sebelum pengujian kualitas, kalibrasi alat, dokumentasi hasil pemeriksaan, dan memastikan semua prosedur kerja mengikuti SOP pabrik Jepang.\n\nSelain itu, pelamar diharapkan memiliki ketertarikan kuat pada dunia otomotif, mampu bekerja dalam ritme produksi pabrik, serta memiliki kemampuan mengikuti instruksi dengan detail. Kesempatan ini memberikan peluang untuk mendapatkan pelatihan mekanik yang komprehensif, peningkatan keterampilan teknis, dan kesempatan pengembangan karier di industri otomotif Jepang. Pelamar boleh mendaftar dari posisi Indonesia maupun Jepang.",
   "requirements": [
     "SMA",
     "N4/JFT-Basic A2",
@@ -180,14 +180,7 @@
     "Siap bekerja dalam tim",
     "Mampu mengikuti SOP industri"
   ],
-  "benefits": [
-    "Mess",
-    "Training mekanik",
-    "Kenaikan gaji sesuai performa",
-    "Asuransi kerja",
-    "Kesempatan perpanjangan kontrak",
-    "Lingkungan kerja modern"
-  ],
+  "benefits": ["Mess", "Training mekanik"],
   "applyUrl": "https://wa.me/6281234567?text=Apply%20Automotive%20Gunma",
   "posted_at": "2023-01-11",
   "deadline": "2023-01-30",
